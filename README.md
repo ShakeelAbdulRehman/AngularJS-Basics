@@ -1,2 +1,7 @@
-# AngularJS-Demo
-AngularJS Demo
+# AngularJS-Basics
+AngularJS Basics
+
+-Controllers
+-Directives
+-Filters
+-Services
